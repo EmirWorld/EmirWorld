@@ -10,17 +10,17 @@ I'm currently focusing on expanding my knowledge and expertise in the following 
 
 - Full-stack web development
 - JavaScript and TypeScript
-- React and Vue.js frameworks
-- Node.js and Express.js
+- React && React Native and Vue.js frameworks
+- Golang && Gin Gonic
 - SQL and NoSQL databases
-- Cloud technologies (AWS, Firebase)
+- Cloud technologies (Firebase)
 
 ## 🌱 Skills
 
 Here are some of the key skills and technologies I work with:
 
 - **Languages**: JavaScript, HTML, CSS
-- **Front-end**: React, Vue.js, React NATIVE, Sass, Bootstrap, Tailwind
+- **Front-end**: React, Vue.js, React Native, Sass, Bootstrap, Tailwind
 - **Back-end**:  Golang, Gin Gonic
 - **Databases**: MongoDB, MySQL, PostgreSQL, Firebase Firestore
 - **Version Control**: Git, GitHub
