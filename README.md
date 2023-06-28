@@ -5,8 +5,8 @@
 Hello there! 👋 I'm EmirWorld, a passionate software developer with a love for coding and problem-solving. Welcome to my GitHub profile, where you can explore my projects, contributions, and skills.
 
 ## 🔭 Current Focus
-
-I'm currently focusing on expanding my knowledge and expertise in the following areas:
+I'm currently working as a contractor for Misija.web, a dynamic web development agency, where I collaborate on various projects and contribute to their success.
+I'm also focusing on expanding my knowledge and expertise in the following areas:
 
 - Full-stack web development
 - JavaScript and TypeScript
