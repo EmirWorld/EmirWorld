@@ -30,7 +30,8 @@ Here are some of the key skills and technologies I work with:
 
 Here are the active projects I am currently working on in my free time.
 
-- [Project 1](https://github.com/EmirWorld/poosible-backend): Poosible Backend 🌟
+- [Project 1](https://github.com/EmirWorld/poosible-backend): Poosible Go Backend  (building arhitecture and boilerplate)🌟
+- [Project 2](https://github.com/EmirWorld/poosible-backend): Poosible Node Backend (building arhitecture and boilerplate)🌟
 
 Feel free to explore my GitHub repositories for more projects and contributions.
 
