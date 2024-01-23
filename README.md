@@ -19,10 +19,10 @@ I'm also focusing on expanding my knowledge and expertise in the following areas
 
 Here are some of the key skills and technologies I work with:
 
-- **Languages**: JavaScript, HTML, CSS
-- **Front-end**: React, Vue.js, React Native, Sass, Bootstrap, Tailwind
-- **Back-end**:  Golang, Gin Gonic
-- **Databases**: MongoDB, MySQL, PostgreSQL, Firebase Firestore
+- **Languages**: JavaScript, Golang
+- **Front-end**: React, Vue.js, Svelte, React Native, Sass, Bootstrap, Tailwind
+- **Back-end**:  Golang, Gin Gonic, Node, Express
+- **Databases**: MongoDB, PostgreSQL, Firebase Firestore
 - **Version Control**: Git, GitHub
 - **Deployment**: Railway, Netlify, Vercel, 
 
