@@ -11,7 +11,7 @@ I'm also focusing on expanding my knowledge and expertise in the following areas
 - Full-stack web development
 - JavaScript and TypeScript
 - React && React Native and Vue.js frameworks
-- Golang && Gin Gonic
+- Node and Express
 - SQL and NoSQL databases
 - Cloud technologies (Firebase)
 
@@ -19,9 +19,9 @@ I'm also focusing on expanding my knowledge and expertise in the following areas
 
 Here are some of the key skills and technologies I work with:
 
-- **Languages**: JavaScript, Golang
+- **Languages**: JavaScript
 - **Front-end**: React, Vue.js, Svelte, React Native, Sass, Bootstrap, Tailwind
-- **Back-end**:  Golang, Gin Gonic, Node, Express
+- **Back-end**:  Node, Express
 - **Databases**: MongoDB, PostgreSQL, Firebase Firestore
 - **Version Control**: Git, GitHub
 - **Deployment**: Railway, Netlify, Vercel, 
@@ -30,8 +30,9 @@ Here are some of the key skills and technologies I work with:
 
 Here are the active projects I am currently working on in my free time.
 
-- [Project 1](https://github.com/EmirWorld/poosible-backend): Poosible Go Backend  (building arhitecture and boilerplate)🌟
-- [Project 2](https://github.com/EmirWorld/poosible-backend): Poosible Node Backend (building arhitecture and boilerplate)🌟
+- Focusing on job right now🌟
+- Building javascript solana trading bot in free time🌟
+
 
 Feel free to explore my GitHub repositories for more projects and contributions.
 
